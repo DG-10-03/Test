@@ -1,2 +1,0 @@
-# Test
-In class Test
